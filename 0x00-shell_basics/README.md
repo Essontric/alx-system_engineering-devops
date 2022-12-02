@@ -2,3 +2,5 @@
 pwd
 "Display content list of current working directory"
 ls
+"Changes directory to users home directory"
+cd ..
