@@ -5,4 +5,6 @@ ls
 "Changes directory to users home directory"
 cd
 " Display current directory content in long format"
-ls -l 
+ls -l
+"Display long current directory contents, including hidden files starting with '.'"
+ls -al 
