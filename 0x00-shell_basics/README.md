@@ -3,4 +3,6 @@ pwd
 "Display content list of current working directory"
 ls
 "Changes directory to users home directory"
-cd 
+cd
+" Display current directory content in long format"
+ls -l 
