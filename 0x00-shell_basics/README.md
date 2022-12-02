@@ -7,4 +7,6 @@ cd
 " Display current directory content in long format"
 ls -l
 "Display long current directory contents, including hidden files starting with '.'"
-ls -al 
+ls -al
+"Display long current directory contents, including hidden files starting with '.' with user and group ID in numbers"
+ls -na
