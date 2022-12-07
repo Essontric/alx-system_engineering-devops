@@ -9,3 +9,6 @@
 
 "Display the last 10 lines of /etc/passwd"
 4-lastlines
+
+"Display the content of the /etc/passwd file"
+2-hellofile
