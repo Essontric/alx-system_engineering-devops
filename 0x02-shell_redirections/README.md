@@ -12,3 +12,6 @@
 
 "Display the content of the /etc/passwd file"
 2-hellofile
+
+"Display the first 10 lines of /etc/passwd"
+5-firstlines
